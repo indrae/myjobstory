@@ -86,7 +86,7 @@ img {
 	min-width: 48px;
 	margin: 10px;
 	background: transparent;
-	border: 2px dotted white;
+	border: 2px solid white;
 	border-radius: 50%;
 	color: white;
 }
@@ -306,6 +306,7 @@ div[class*='animate'] {
 	border-radius: 0 5px 5px 0;
 }
 .slide-out-div h3 {
+	margin-left: 30px;
 	margin-top: 0;
 }
 .slide-out-div ul li {
