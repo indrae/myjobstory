@@ -50,12 +50,47 @@
   border: 1px solid #e3e3e3; }
 
 .bb-custom-wrapper > nav a {
-  background: #151843;
-  color: #3378EE; }
+  background: #3378EE;
+  color: black; 
+  opacity: 1;
+  }
 
 .slide-out-div {
   opacity : 1;
  
  }
+ 
+.bb-nav-prev{
+    position:absolute;
+    top:0px;
+    bottom:0px;
+    width:10%;
+    text-align:center;
+    top:50%;
+    margin-top:-9px; /*Depends on your icon height*/
+}
+
+.leftContainer{
+    left:0px;    
+}
+
+.bb-nav-next{
+    position:absolute;
+    top:0px;
+    bottom:0px;
+    width:10%;
+    text-align:center;
+    top:50%;
+    margin-top:-9px; /*Depends on your icon height*/
+}
+
+
+.rightContainer{
+    right:0px;
+}
+
+.hidden-xs{
+	top: 200px;
+}
 
 /*# sourceMappingURL=kimberly.css.map */
