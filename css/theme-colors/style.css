@@ -1,12 +1,16 @@
+.row{
+	margin-top: 200px;
+}
+
 .navbar {
-  background: #666699; }
+  background: #518BEC; }
 
 .navbar-default .navbar-nav > li > a {
   color: white; }
 
 .navbar-default .navbar-nav > li > a:hover {
   color: white;
-  background-color: #151843; }
+  background-color: #3378EE; }
 
 .dp-box h1 span {
   border-bottom: 1px dashed #151843; }
@@ -16,7 +20,7 @@
   background: #eee; }
 
 #bb-first-page {
-  background: #666699; }
+  background: #3378EE; }
 
 .first-page-right {
   color: #fff; }
