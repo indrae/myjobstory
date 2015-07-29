@@ -93,4 +93,30 @@
 	top: 200px;
 }
 
+.center {
+  margin: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+.triangle-down {
+  position: fixed;
+  margin-top: 50px;
+  width: 0;
+  height: 0;
+  border-top: 25px solid transparent;
+}
+
+.triangle-down p {
+  text-align: center;
+  margin-top: -33px;
+  margin-left: -13px;
+  transition: color .2s;
+}
+.triangle-down p:hover {
+
+}
+
+
 /*# sourceMappingURL=kimberly.css.map */
