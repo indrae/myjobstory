@@ -20,6 +20,7 @@
 	-webkit-transition-property: -webkit-transform;
 	-moz-transition-property: -moz-transform;
 	transition-property: transform;
+	background: #3378EE;
 }
 
 .bb-vertical .bb-page {
@@ -49,7 +50,7 @@
 	width: 100%;
 	top: 0;
 	left: 0;
-	background: #fff;
+	background: inherit;
 }
 
 .bb-outer {
@@ -195,7 +196,7 @@
 	top: 0;
 	left: 0;
 	display: none;
-	background: #fff;
+	background: #3378EE;
 }
 
 /* No JS */

@@ -61,7 +61,7 @@ img {
 	transform: translateX(-50%);
 }
 .navbar-nav li a:hover, .navbar-nav li a:focus {
-	color: #ba7700;
+	color: #fff;
 }
 .navbar-nav li a:hover::before, .navbar-nav li a:focus::before {
 	color: #fff;
